@@ -15,7 +15,7 @@
     color: white;
     font-size: 20;
 }
-.navbare-inverse .navbar-nav>li>a:hover{
+.navbar-inverse .navbar-nav>li>a:hover{
     color:orange;
     font-size: 20;
 }
